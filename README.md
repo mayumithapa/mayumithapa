@@ -72,27 +72,6 @@ Production-style distributed job scheduler with retry mechanisms and fault-toler
 
 ---
 
-### 🎯 Korn Ferry Enterprise Projects
-**Associate Software Engineer** | Dec 2024 - Present
-
-**Real-time Resume Ranking & Job Matching System**
-- 🧠 AI-powered resume analysis with automated skill extraction
-- 📊 Advanced relevance scoring and candidate shortlisting
-- 📉 **Result:** 40%+ reduction in manual screening effort
-
-**Cafeteria Ordering & Management Platform**
-- 🍽️ Real-time order tracking with centralized workflows
-- 💳 Automated pricing and inventory management
-- 📉 **Result:** 30%+ reduction in order-processing errors
-
-**Production Optimization:**
-- 🐛 Reduced production issues by **25%+** through structured bug triaging
-- 📱 Designed and optimized **15+ React/TypeScript pages** (+30% performance improvement)
-- 🔧 Architected modular backend services (+30% API reliability)
-- 🔄 Implemented event-driven pipelines with RabbitMQ/Kafka (+35% processing efficiency)
-
----
-
 ## 📊 Professional Experience
 
 ### **Associate Software Engineer** @ iSpace (Client: Korn Ferry)

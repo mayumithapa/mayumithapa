@@ -128,7 +128,7 @@ Gyan Ganga Institute of Technology and Sciences
 
 ## 📫 Let's Connect!
 
-- 💼 **LinkedIn:** [linkedin.com/in/mayumithapa](https://linkedin.com/in/mayumithapa)
+- 💼 **LinkedIn:** [linkedin.com/in/mayumi15thapa](https://www.linkedin.com/in/mayumi15thapa/)
 - 📧 **Email:** mayumi1509thapa@gmail.com
 - 📱 **Phone:** +91 7024160858
 - 🧑‍💻 **LeetCode:** [LeetCode Profile](https://leetcode.com/u/mayumi15/)
